@@ -3,7 +3,7 @@ etils >= 0.4.0
 numpy>=1.13.3
 scipy>=1.0.0
 six >= 1.10
-tensorflow-gpu
+tensorflow-gpu>=2.3
 sklearn
 tensorflow_probability <= 0.7
 tf-models-official
