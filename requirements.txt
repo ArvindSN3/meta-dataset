@@ -8,3 +8,4 @@ scikit-learn
 tensorflow_probability <= 0.7
 tf-models-official
 tensorflow-datasets
+tensorflow-gpu>=2.0,<=2.5
